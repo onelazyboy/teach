@@ -1,6 +1,6 @@
 # 博客地址
 
-<http://blog.rainyalley.com/>
+<http://www.xiangwole.me/>
 
 # 必改内容
 
