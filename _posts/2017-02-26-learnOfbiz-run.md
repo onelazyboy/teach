@@ -9,10 +9,10 @@ tags:
     - ofbiz
 ---
 
-感谢[@jiasudu1649][1]博客的技术支持。
+感谢  [http://jiasudu.iteye.com/blog/2091874](http://jiasudu.iteye.com/blog/2091874 "@jiasudu1649")博客的技术支持。
 
 
-    - 1.首先github 下载ofbizCMS项目 [https://github.com/huihoo/ofbiz-cms][2]
+    - 1.首先github 下载ofbizCMS项目 [ https://github.com/huihoo/ofbiz-cms]( https://github.com/huihoo/ofbiz-cms "ofbiz-cms") 
     - 2.CMD命令到ofbizCMS解压所在目录
     - 3.执行ant clean-all
     - 4.执行ant run-install 等待直到提示“SUCCESS”
@@ -21,10 +21,7 @@ tags:
     
 # 如下效果图： #
 后台效果展示
-![后台效果展示][4]
+![](http://ww1.sinaimg.cn/large/71be7325ly1fd34q94ahsj211y0lz0uk)
 前台效果展示
-![前台效果展示][3]
-  [1]: http://jiasudu.iteye.com/blog/2091874
-  [2]: https://github.com/huihoo/ofbiz-cms
-  [3]: http://ww1.sinaimg.cn/large/71be7325ly1fd34qle3ehj211y0utn6j
-  [4]: http://ww1.sinaimg.cn/large/71be7325ly1fd34q94ahsj211y0lz0uk
+![](http://ww1.sinaimg.cn/large/71be7325ly1fd34qle3ehj211y0utn6j)
+
