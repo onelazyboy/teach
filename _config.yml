@@ -4,7 +4,7 @@ highlighter: rouge
 markdown: kramdown
 kramdown:
   input:  GFM
-  syntax_highlighter: rouge
+  highlighter: rouge
 
 
 paginate: 10
@@ -32,7 +32,7 @@ github_username:  "onelazyboy"
 swiftype_searchId: "ncwR9a8S9CTx2q9SgsJm"
 disqus_shortname: "PeiYouJun"
 
-
+plugins: [jekyll-paginate]
 
 
 url: "http://www.xiangwole.me"
